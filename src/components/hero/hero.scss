@@ -1,0 +1,19 @@
+.hero {
+    margin: 0;
+    padding: 40px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    -webkit-box-shadow: 4px 4px 50px 23px rgba(48, 132, 197, 0.18);
+    -moz-box-shadow: 4px 4px 50px 23px rgba(48, 132, 197, 0.18);
+    box-shadow: 4px 4px 50px 23px rgba(48, 132, 197, 0.18);
+    border-radius: 12px;
+    margin-bottom: 90px;   
+}
+
+.hero_select {
+    border: none;
+    border-bottom: 1px solid rgb(231, 80, 80);
+}
